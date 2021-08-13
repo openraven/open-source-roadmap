@@ -10,10 +10,10 @@ Our flagship project is Magpie, a cloud security analysis tool that is going bey
 
 ## Community and Contributions
 We encourage and welcome [community contributions](CONTRIBUTING.md). 
-We have a [community code of conduct](CODE_OF_CONDUCT.md)
+We have a [community code of conduct](CODE_OF_CONDUCT.md).
 
 ## Security 
-You can read our security polciy [here](SECURITY.md)
+You can read about our security practices in our [security policy](SECURITY.md).
 
 ## Licenses and Code Contributions
 
